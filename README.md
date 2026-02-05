@@ -48,7 +48,7 @@ Follow these steps to set up the project on your local machine:
 #### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/username/ai-social-media-post-generator.git
+git clone https://github.com/Treonix-in/social-media-post-generator-ai.git
 cd ai-social-media-post-generator
 ```
 
@@ -109,13 +109,6 @@ The frontend server should start on [http://localhost:3000](http://localhost:300
 
 - [AI Social Media Post Generator](https://www.quickcontentai.com) 
 
-## Contributing
-
-If you'd like to contribute to this project, please fork the repository and use a feature branch. Pull requests are warmly welcome.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
